@@ -1,5 +1,9 @@
 #include "shell.h"
 
+void prompt()
+{
+    printf("> ");
+}
 /**
  * main - Entry point for the shell
  *
